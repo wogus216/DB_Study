@@ -5,3 +5,4 @@ DB 스터디 코드
 
 * [스터디 1주차](https://velog.io/@wogus216/DB-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%A3%BC%EC%B0%A8)
 * [스터디 2주차](https://velog.io/@wogus216/DB-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8)
+* [스터디 3주차](https://velog.io/@wogus216/DB-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%A3%BC%EC%B0%A8)
