@@ -6,3 +6,5 @@ DB 스터디 코드
 * [스터디 1주차](https://velog.io/@wogus216/DB-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%A3%BC%EC%B0%A8)
 * [스터디 2주차](https://velog.io/@wogus216/DB-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8)
 * [스터디 3주차](https://velog.io/@wogus216/DB-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%A3%BC%EC%B0%A8)
+* [스터디 4주차](https://cafe.naver.com/itisgoodee)
+* [스터디 5주차 & 간단한 회고](https://velog.io/@wogus216/DB-%EC%8A%A4%ED%84%B0%EB%94%94-5%EC%A3%BC%EC%B0%A8-%EA%B0%84%EB%8B%A8-%ED%9A%8C%EA%B3%A0)
